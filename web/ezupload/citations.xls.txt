@@ -1,0 +1,149 @@
+
+PMID- 31662222
+OWN - NLM
+STAT- Publisher
+LR  - 20191030
+IS  - 1477-2574 (Electronic)
+IS  - 1365-182X (Linking)
+DP  - 2019 Oct 26
+TI  - A comparison of the proportion of early stage cholangiocarcinoma found in an
+      ultrasound-screening program compared to walk-in patients.
+LID - S1365-182X(19)30741-5 [pii]
+LID - 10.1016/j.hpb.2019.10.010 [doi]
+AB  - BACKGROUND: Patients with cholangiocarcinoma (CCA) usually have no specific
+      symptoms until an advance stage of the disease and curative treatment is not
+      possible. Patients with early stage, operable disease can be found using
+      ultrasonography (US). A US-screening program was implemented in Thailand where
+      CCA incidence is the highest worldwide. Here we evaluate the effectiveness of the
+      program by comparing the proportion of individuals with early stage CCA in the
+      screening group with that of the walk-in group presenting at hospitals with
+      clinical symptoms. METHODS: All patients had a pathological diagnosis of CCA. The
+      difference in the proportions and the 95% confidence interval (CI) were obtained 
+      using binomial regression. RESULTS: Of the 762 histologically proven CCA cases,
+      161 were from the screening group and 601 from the walk-in group. The proportion 
+      of early stage CCA (stages 0 to II) diagnosed was 84.5% in the screening and
+      21.6% in the walk-in groups. After adjustment age, gender, and liver fluke
+      infection, there was a significantly higher proportion (P < 0.001) and higher
+      chance (P < 0.001) of having early stage CCA in the screening group than in the
+      walk-in group. CONCLUSIONS: US-screening is an effective tool for detecting early
+      stage, operable CCA in high incidence areas.
+CI  - Crown Copyright (c) 2019. Published by Elsevier Ltd. All rights reserved.
+FAU - Khuntikeo, Narong
+AU  - Khuntikeo N
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Surgery, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Koonmee, Supinda
+AU  - Koonmee S
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Pathology, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Sa-Ngiamwibool, Prakasit
+AU  - Sa-Ngiamwibool P
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Pathology, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Chamadol, Nittaya
+AU  - Chamadol N
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Radiology, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Laopaiboon, Vallop
+AU  - Laopaiboon V
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Radiology, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Titapun, Attapol
+AU  - Titapun A
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Surgery, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Yongvanit, Puangrat
+AU  - Yongvanit P
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Biochemistry, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Loilome, Watcharin
+AU  - Loilome W
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Biochemistry, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Namwat, Nisana
+AU  - Namwat N
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Department of Biochemistry, Faculty of Medicine, Khon Kaen
+      University, Khon Kaen, Thailand.
+FAU - Andrews, Ross H
+AU  - Andrews RH
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Faculty of Medicine, St Mary's Campus, Imperial College,
+      London, United Kingdom.
+FAU - Petney, Trevor N
+AU  - Petney TN
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; State Museum of Natural History Karlsruhe, Erbprinzenstrasse
+      13, 76133 Karlsruhe, Germany.
+FAU - Thinkhamrop, Kavin
+AU  - Thinkhamrop K
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Data Management and Statistical Analysis Center (DAMASAC),
+      Faculty of Public Health, Khon Kaen University, Thailand.
+FAU - Chaichaya, Nathaphop
+AU  - Chaichaya N
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Data Management and Statistical Analysis Center (DAMASAC),
+      Faculty of Public Health, Khon Kaen University, Thailand.
+FAU - Tawarungruang, Chaiwat
+AU  - Tawarungruang C
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Data Management and Statistical Analysis Center (DAMASAC),
+      Faculty of Public Health, Khon Kaen University, Thailand.
+FAU - Thuanman, Jaruwan
+AU  - Thuanman J
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Data Management and Statistical Analysis Center (DAMASAC),
+      Faculty of Public Health, Khon Kaen University, Thailand.
+FAU - Thinkhamrop, Bandit
+AU  - Thinkhamrop B
+AD  - Cholangiocarcinoma Screening and Care Program (CASCAP), Khon Kaen University,
+      Khon Kaen, Thailand; Cholangiocarcinoma Research Institute, Khon Kaen University,
+      Khon Kaen, Thailand; Data Management and Statistical Analysis Center (DAMASAC),
+      Faculty of Public Health, Khon Kaen University, Thailand. Electronic address:
+      bandit@kku.ac.th.
+LA  - eng
+PT  - Journal Article
+DEP - 20191026
+PL  - England
+TA  - HPB (Oxford)
+JT  - HPB : the official journal of the International Hepato Pancreato Biliary
+      Association
+JID - 100900921
+SB  - IM
+EDAT- 2019/10/31 06:00
+MHDA- 2019/10/31 06:00
+CRDT- 2019/10/31 06:00
+PHST- 2019/04/09 00:00 [received]
+PHST- 2019/08/30 00:00 [revised]
+PHST- 2019/10/01 00:00 [accepted]
+PHST- 2019/10/31 06:00 [entrez]
+PHST- 2019/10/31 06:00 [pubmed]
+PHST- 2019/10/31 06:00 [medline]
+AID - S1365-182X(19)30741-5 [pii]
+AID - 10.1016/j.hpb.2019.10.010 [doi]
+PST - aheadofprint
+SO  - HPB (Oxford). 2019 Oct 26. pii: S1365-182X(19)30741-5. doi:
+      10.1016/j.hpb.2019.10.010.
+
